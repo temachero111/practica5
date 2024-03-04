@@ -1,0 +1,4 @@
+#ifndef VENTANA_BUSQUEDA_H
+#define VENTANA_BUSQUEDA_H
+
+#endif // VENTANA_BUSQUEDA_H
